@@ -78,7 +78,7 @@ Providing an outstanding digital shopping experience through a fully integrated 
 
 🎥 [Click here to watch the project demo video](
 
-https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6
+                                        https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6
 
 )
 
