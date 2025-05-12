@@ -17,7 +17,7 @@ Providing an outstanding digital shopping experience through a fully integrated 
 - ✅ External Payment System Integration via API
 - ✅ State Management using **Cubit (flutter_bloc)**
 - ✅ Local Storage for Tokens and User Info using SharedPreferences
-- ✅ Clean and Modular Architecture (Folder Structure - Clean Code)
+- ✅ Clean and Modular Architecture (mvvm - Clean Code)
 - ✅ Error Handling via Dio Interceptors
 - ✅ Responsive UI for All Device Sizes
 
@@ -46,8 +46,6 @@ Providing an outstanding digital shopping experience through a fully integrated 
 - View order statuses (In Preparation, In Transit, Delivered).
 - Access to order history and past orders.
 
-### 🌗 Dark Mode Support:
-- Theme switching for a pleasant dark mode experience.
 
 ---
 
@@ -61,7 +59,6 @@ Providing an outstanding digital shopping experience through a fully integrated 
 | **JWT**                 | Token-based authentication and session management |
 | **Cubit (flutter_bloc)**| State management                  |
 | **SharedPreferences**   | Local storage for user data       |
-| **Stripe / Paymob API** | External payment gateway          |
 | **Lottie / Animations** | Enhance user experience with animations |
 | **go_router**           | Routing management                |
 | **shimmer**             | Loading effects                   |
@@ -78,7 +75,7 @@ Providing an outstanding digital shopping experience through a fully integrated 
 
 🎥 [Click here to watch the project demo video](
 
-                                        https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6
+https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6
 
 )
 
