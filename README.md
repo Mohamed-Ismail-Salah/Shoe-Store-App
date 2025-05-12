@@ -73,11 +73,7 @@ Providing an outstanding digital shopping experience through a fully integrated 
 
 ## 📽️ Project Demo Video
 
-🎥 [Click here to watch the project demo video](
-
-https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6
-
-)
+🎥 [Click here to watch the project demo video](https://github.com/user-attachments/assets/f6703993-1c1b-432d-aefb-0d073cfb5ca6)
 
 ---
 
