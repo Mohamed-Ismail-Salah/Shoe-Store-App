@@ -79,12 +79,4 @@ Providing an outstanding digital shopping experience through a fully integrated 
 https://github.com/user-attachments/assets/e16a81fa-70a8-415a-8428-b29b825c0dbc
 
 
----
-
-## 📦 Getting Started
-
-```bash
-git clone https://github.com/your-username/levado.git
-cd levado
-flutter pub get
-flutter run
+ 
