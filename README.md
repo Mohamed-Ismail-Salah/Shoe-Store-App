@@ -1,4 +1,4 @@
-# 👟 LEVADO - Flutter Shoe Store App
+# 👟 Flutter Shoe Store App
 
 **LEVADO** is a fully developed e-commerce mobile app for selling shoes, built using **Flutter** and **Dio**, with a custom backend API. It serves as a comprehensive showcase of my skills as a Flutter developer in building high-quality, deployable e-commerce applications.
 
